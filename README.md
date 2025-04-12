@@ -31,6 +31,11 @@
     width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain-wordmark.svg"
+    width="60px"
+    alt="Cucumber">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Frameworks -->
   </br>
@@ -102,6 +107,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
     width="60px"
     alt="VS Code">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg"
+    width="60px"
+    alt="Postman">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg"
+    width="60px"
+    alt="Swagger">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
