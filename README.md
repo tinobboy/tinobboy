@@ -148,7 +148,7 @@
       src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
       alt="LinkedIn">
   </a>
-  <a href="https://github.com/tinobboy">
+  <!--<a href="https://github.com/tinobboy">
     <img
       src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
       alt="LinkedIn">
@@ -174,4 +174,4 @@ USED:
 
 ------
 
-E-Mail: [luksbreaking@gmail.com](<a href="mailto:luksbreaking@gmail.com">Enviar correo</a>)
+E-Mail: [luksbreaking@gmail.com]
