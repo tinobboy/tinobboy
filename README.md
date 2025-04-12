@@ -63,6 +63,11 @@
     width="60px"
     alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://jmeter.apache.org/images/logo.svg"
+    width="60px"
+    alt="npm">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
   </br>
