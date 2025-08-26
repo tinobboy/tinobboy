@@ -164,12 +164,12 @@
         <div class="section">
             <h2>Portafolio Web</h2>
             <p>Aquí puedes ver algunos de mis proyectos de desarrollo web. He trabajado en el diseño, desarrollo y alojamiento de sitios web</p>
-          <a href="https://www.propiedadmendoza.com/" class="btn" align="left">www.propiedadmendoza.com</a><div class="section">
+          <a href="https://www.propiedadmendoza.com/" class="btn">www.propiedadmendoza.com</a><div class="section">
             <h2>Frameworks Personales</h2>
             <p>Este proyecto se encuentra desarrollado un framework basado en Java, RestAssured, JUnit para realizar pruebas de servicios.</p>
-          <a href="https://github.com/tinobboy/ValidadorAPIs" class="btn" align="left">ValidadorAPIS</a>
+          <a href="https://github.com/tinobboy/ValidadorAPIs" class="btn">ValidadorAPIS</a>
             <p>Un framework para hacer pruebas frontend con typescript y playwright.</p>
-          <a href="https://github.com/tinobboy/ValidadorWeb" class="btn" align="left">ValidadorWEB</a>
+          <a href="https://github.com/tinobboy/ValidadorWeb" class="btn">ValidadorWEB</a>
             
         
 <!-- FOOTER -->
