@@ -164,7 +164,7 @@
         <div class="section">
             <h2>Portafolio Web</h2>
             <p>Aquí puedes ver algunos de mis proyectos de desarrollo web. He trabajado en el diseño y desarrollo de sitios web</p>
-            <a>https://www.propiedadmendoza.com/</a>
+          <a href="https://www.propiedadmendoza.com/" class="btn">www.propiedadmendoza.com</a>
             
         
 <!-- FOOTER -->
