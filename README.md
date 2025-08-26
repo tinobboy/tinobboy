@@ -163,7 +163,7 @@
 <!-- PORTAFOLIO WEB -->
         <div class="section">
             <h2>Portafolio Web</h2>
-            <p>Aquí puedes ver algunos de mis proyectos de desarrollo web. He trabajado en el diseño y desarrollo de sitios web responsivos y funcionales.</p>
+            <p>Aquí puedes ver algunos de mis proyectos de desarrollo web. He trabajado en el diseño y desarrollo de sitios web</p>
             
             https://www.propiedadmendoza.com/
         
