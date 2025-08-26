@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Lucas%20Barabas-Desarrollador%20y%20Automatizador%20de%20Pruebas&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Lucas%20Barabas&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
@@ -160,7 +160,17 @@
   </a>
 
   </br>
-
+<!-- PORTAFOLIO WEB -->
+        <div class="section">
+            <h2>Portafolio Web</h2>
+            <p>Aquí puedes ver algunos de mis proyectos de desarrollo web. He trabajado en el diseño y desarrollo de sitios web responsivos y funcionales.</p>
+            
+            <div class="portfolio-item">
+                <h3>Propiedad Mendoza</h3>
+                <p>Sitio web de bienes raíces desarrollado con enfoque en experiencia de usuario y diseño responsivo.</p>
+                <a href="https://www.propiedadmendoza.com/" target="_blank" class="btn">Ver Sitio Web</a>
+            </div>
+        </div>
 <!-- FOOTER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
