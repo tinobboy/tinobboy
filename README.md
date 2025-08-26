@@ -168,6 +168,7 @@
             <h2>Frameworks Personales</h2>
             <p>Este proyecto se encuentra desarrollado un framework basado en Java, RestAssured, JUnit para realizar pruebas de servicios.</p>
           <a href="https://github.com/tinobboy/ValidadorAPIs" class="btn">ValidadorAPIS</a>
+            </br>
             <p>Un framework para hacer pruebas frontend con typescript y playwright.</p>
           <a href="https://github.com/tinobboy/ValidadorWeb" class="btn">ValidadorWEB</a></div></div>
             
