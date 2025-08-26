@@ -165,12 +165,8 @@
             <h2>Portafolio Web</h2>
             <p>Aquí puedes ver algunos de mis proyectos de desarrollo web. He trabajado en el diseño y desarrollo de sitios web responsivos y funcionales.</p>
             
-            <div class="portfolio-item">
-                <h3>Propiedad Mendoza</h3>
-                <p>Sitio web de bienes raíces desarrollado con enfoque en experiencia de usuario y diseño responsivo.</p>
-                <a href="https://www.propiedadmendoza.com/" target="_blank" class="btn">Ver Sitio Web</a>
-            </div>
-        </div>
+            https://www.propiedadmendoza.com/
+        
 <!-- FOOTER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
