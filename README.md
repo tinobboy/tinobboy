@@ -162,10 +162,7 @@
   </br>
 <!-- PORTAFOLIO WEB -->
         <div align="left" class="section">
-            <h2>Portafolio Web</h2>
-            <p>Aquí puedes ver algunos de mis proyectos de desarrollo web. He trabajado en el diseño, desarrollo y alojamiento de sitios web</p>
-          <a href="https://www.propiedadmendoza.com/" class="btn">www.propiedadmendoza.com</a><div class="section">
-            <h2>Frameworks Personales</h2>
+            <h2>Frameworks</h2>
             <p>Este proyecto se encuentra desarrollado un framework basado en Java, RestAssured, JUnit para realizar pruebas de servicios.</p>
           <a href="https://github.com/tinobboy/ValidadorAPIs" class="btn">ValidadorAPIS</a>
             <br>
